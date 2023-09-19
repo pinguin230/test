@@ -9,6 +9,7 @@ public class Main {
 		
 				LukeNumber[] lukeNumbers = new LukeNumber[n];
 				long sumOfSquares = 0;
+				
 		
 				for (int i = 1; i <= n; i++) {
 							lukeNumbers[i - 1] = new LukeNumber(i);
