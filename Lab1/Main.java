@@ -14,8 +14,6 @@ public class Main {
             scanner.close();
         }
 				
-
-				//dwpanp
 				LukeNumber[] lukeNumbers = new LukeNumber[n];
 				long sumOfSquares = 0;
 		
