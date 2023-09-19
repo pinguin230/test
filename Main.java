@@ -15,6 +15,7 @@ public class Main {
 							lukeNumbers[i - 1] = new LukeNumber(i);
 							sumOfSquares += lukeNumbers[i - 1].getSquare();
 					}
+					
 			
 					System.out.println("The sum of squares of first " + n + " Luke numbers is: " + sumOfSquares);
 			
